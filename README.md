@@ -1,16 +1,10 @@
-# myapp
+# Jogo da Velha (Tic-Tac-Toe)
 
-A new Flutter project.
+Este é um projeto de um **Jogo da Velha (Tic-Tac-Toe)** desenvolvido para praticar conceitos básicos de lógica de programação e desenvolvimento de interfaces interativas.
 
-## Getting Started
+## 📝 Funcionalidades
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Modo Jogador vs. Jogador:** Dois jogadores se alternam para marcar X ou O.
+- **Verificação automática de vitória:** Detecta quando um jogador vence ou ocorre empate.
+- **Interface simples e intuitiva.**
+- **Reset do jogo:** Recomece uma nova partida com um clique.
